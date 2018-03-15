@@ -6,3 +6,6 @@ where	(a14.BOGO_COUPON in ('0000010680')
  select distinct a14.BOGO_COUPON   from 		V_SAKS_PROMO_STORE_DAY	 a14
 	--  on 	(a14.BOGO_COUPON = a15.BOGO_COUPON)
 where	(a14.BOGO_COUPON in ('0000010680'))
+
+
+----tESTtt
